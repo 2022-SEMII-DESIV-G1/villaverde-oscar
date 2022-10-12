@@ -1,22 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
 
-:root {
---text: #000;
---bg: #fff;
-}
-
 body {
     font-family:'Arial Narrow', Arial, sans-serif;
     background-color: var(--bg);
     color: var(--text);
 }
 
-@media (prefers-color-scheme: dark) {
-:root {
-    --text: #fff;
-    --bg: #000;
-        }
+h1{
+    font-size: 50px;
+    text-align: center;
 }
+
+h2{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
 .contenedor{
     display: flex;
     align-items: center;
@@ -25,7 +26,7 @@ body {
     height: 1000px;
     flex-direction: column;
 }
-.caja{
+.enmarcado{
     padding: 120px;
     background: rgb(16,51,94);
     width: 20vw;
@@ -37,17 +38,13 @@ body {
 label{
     margin: 250px 30px 60px 120px;
     font-size: 25px;
-    
+    justify-content: start;
 }
 
 input{
     width: 500px;
     height: 50px;
     font-size: 25px;
-}
-h1{
-    font-size: 50px;
-    text-align: center;
 }
 
 .button{
@@ -73,18 +70,10 @@ h1{
 }
 
 .letras{
-
     margin: 15px;
     padding: 15px;
     display: block;
     align-self: flex-start;
-}
-
-h2{
-    font-size: 30px;
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
 }
 
 p{
@@ -93,4 +82,16 @@ p{
     padding: 5px;
     align-self: flex-start;
 
+}
+
+:root {
+    --text: #000;
+    --bg: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+     --text: #fff;
+     --bg: #000;
+                }
 }
