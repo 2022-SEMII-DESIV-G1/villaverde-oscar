@@ -1,0 +1,187 @@
+body {
+    background-color:beige;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.piramide{
+    text-align: center;
+    font-size: x-large;
+   
+}
+
+.total{
+    justify-content: start;
+    font-size: 50px;
+    font
+}
+
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+    color: black;
+    
+}
+
+input {
+display: flex;
+justify-content: flex-start;
+margin: 0;
+padding: 0;
+font-size: 30px;
+}
+
+.f1 {
+   text-align: center;
+   border: black 5px solid;
+   width: 50px;
+   font-size: 50px;
+   margin-left: 1150px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f2 {
+    
+   border: black 5px solid;
+   width: 115px;
+   font-size: 50px;
+   margin-left: 1120px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f3 {
+    
+   border: black 5px solid;
+   width: 180px;
+   font-size: 50px;
+   margin-left: 1090px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f4 {
+   
+   border: black 5px solid;
+   width: 245px;
+   font-size: 50px;
+   margin-left: 1060px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f5 {
+    
+   border: black 5px solid;
+   width: 310px;
+   font-size: 50px;
+   margin-left: 1030px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f6 {
+  
+   border: black 5px solid;
+   width: 375px;
+   font-size: 50px;
+   margin-left: 1000px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f7 {
+    
+   border: black 5px solid;
+   width: 440px;
+   font-size: 50px;
+   margin-left: 970px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f8 {
+   
+   border: black 5px solid;
+   width: 505px;
+   font-size: 50px;
+   margin-left: 940px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f9 {
+    
+   border: black 5px solid;
+   width: 570px;
+   font-size: 50px;
+   margin-left: 910px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f10 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 635px;
+   font-size: 50px;
+   margin-left: 880px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f11 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 700px;
+   font-size: 50px;
+   margin-left: 850px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f12 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 765px;
+   font-size: 50px;
+   margin-left: 820px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f13 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 830px;
+   font-size: 50px;
+   margin-left: 790px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f14 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 895px;
+   font-size: 50px;
+   margin-left: 760px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
+
+.f15 {
+    justify-content: center;
+   border: black 5px solid;
+   width: 960px;
+   font-size: 50px;
+   margin-left: 730px;
+   margin-top: 0px;
+   background-color: lightgrey;
+}
